@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="327cdbf2-d57f-496c-9679-11f6a82e9657" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2oODMlh9CSpNa7Nq1tXWYBk1bI7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1_2_3_tasks.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/TestWin10/PycharmProjects/OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.2058623",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TestWin10\PycharmProjects\OOP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327cdbf2-d57f-496c-9679-11f6a82e9657" name="Changes" comment="" />
+      <created>1730731683280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730731683280</updated>
+      <workItem from="1730731684748" duration="20169000" />
+      <workItem from="1730752231513" duration="56000" />
+      <workItem from="1730752318824" duration="189000" />
+      <workItem from="1730752528705" duration="941000" />
+      <workItem from="1730820936877" duration="2396000" />
+      <workItem from="1731145532790" duration="97000" />
+      <workItem from="1731229642943" duration="612000" />
+      <workItem from="1731236844065" duration="514000" />
+      <workItem from="1731268844064" duration="395000" />
+      <workItem from="1731345828177" duration="1109000" />
+      <workItem from="1733848793708" duration="7900000" />
+      <workItem from="1733933305110" duration="42000" />
+      <workItem from="1734017085747" duration="2000" />
+      <workItem from="1734108817121" duration="6325000" />
+      <workItem from="1734188284319" duration="653000" />
+      <workItem from="1734189961510" duration="37000" />
+      <workItem from="1734366403125" duration="1958000" />
+      <workItem from="1734368860040" duration="4979000" />
+      <workItem from="1734430605205" duration="7762000" />
+      <workItem from="1734452175443" duration="1193000" />
+      <workItem from="1734457574410" duration="4921000" />
+      <workItem from="1734524762110" duration="1187000" />
+      <workItem from="1734534711428" duration="1188000" />
+      <workItem from="1734802308446" duration="1780000" />
+      <workItem from="1734892273398" duration="53000" />
+      <workItem from="1735227735785" duration="1022000" />
+      <workItem from="1735322797666" duration="2000" />
+      <workItem from="1735566894611" duration="3000" />
+      <workItem from="1736083600005" duration="20000" />
+      <workItem from="1736366539159" duration="8000" />
+      <workItem from="1736453875843" duration="591000" />
+      <workItem from="1736742061986" duration="28000" />
+      <workItem from="1737124981636" duration="3733000" />
+      <workItem from="1737131192713" duration="103000" />
+      <workItem from="1739623280280" duration="5529000" />
+      <workItem from="1739637601556" duration="332000" />
+      <workItem from="1739638022387" duration="23000" />
+      <workItem from="1739641100364" duration="44000" />
+      <workItem from="1739688402030" duration="26000" />
+      <workItem from="1739703162013" duration="548000" />
+      <workItem from="1741351058385" duration="2771000" />
+      <workItem from="1741364964568" duration="5936000" />
+      <workItem from="1741435817187" duration="1246000" />
+      <workItem from="1741540128735" duration="126000" />
+      <workItem from="1742138360433" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/TestWin10/PycharmProjects/OOP/inheritance.ipynb</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1734111444675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

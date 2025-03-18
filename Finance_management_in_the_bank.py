@@ -17,7 +17,7 @@ class CreditCard:
 
     @staticmethod
     def validate_card(*numbers):
-        return all(isinstance(num,(int,float)) and num >= 0  for num in numbers )
+        return all(isinstance(num,(int,float)) and num >= 0  for num in numbers)
 
 
     @property

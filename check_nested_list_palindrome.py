@@ -73,10 +73,11 @@ def create_linked_list(values):
 def test_lined_list_palindrome():
     solution = Solution()
     #test One
-    values = [1,2,2,1]
+    values = [1,2,3,4,2,1]
     head_pointer = create_linked_list(values)
     result = solution.isPalindrome(head_pointer)
     print(f"Is Linked List {head_pointer} a palindrome? answer: {result}")
 
 
 test_lined_list_palindrome()
+

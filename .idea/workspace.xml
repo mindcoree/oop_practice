@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="327cdbf2-d57f-496c-9679-11f6a82e9657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/missingNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mySqrt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_nested_list_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_nested_list_palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_and_linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_and_linear_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,7 @@
   "keyToString": {
     "Python.1_2_3_tasks.executor": "Run",
     "Python.LinkedList.executor": "Run",
+    "Python.binary_and_linear_search.executor": "Run",
     "Python.check_nested_list_palindrome.executor": "Run",
     "Python.main.executor": "Debug",
     "Python.missingNumber.executor": "Run",
@@ -196,7 +195,7 @@
       <workItem from="1742310638710" duration="292000" />
       <workItem from="1742321786710" duration="1910000" />
       <workItem from="1742369482500" duration="26000" />
-      <workItem from="1742818827571" duration="3087000" />
+      <workItem from="1742818827571" duration="4785000" />
     </task>
     <servers />
   </component>
@@ -218,6 +217,7 @@
     <SUITE FILE_PATH="coverage/OOP$mySqrt.coverage" NAME="mySqrt Coverage Results" MODIFIED="1742821706087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP$stack.coverage" NAME="stack Coverage Results" MODIFIED="1742228315811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1742293480052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OOP$binary_and_linear_search.coverage" NAME="binary_and_linear_search Coverage Results" MODIFIED="1742825642883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP$check_nested_list_palindrome.coverage" NAME="check_nested_list_palindrome Coverage Results" MODIFIED="1742322721783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP$missingNumber.coverage" NAME="missingNumber Coverage Results" MODIFIED="1742821715329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1742228305772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

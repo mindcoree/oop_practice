@@ -35,9 +35,9 @@ def func():
     print(quicksort(ar))
     item = int(input('число которое хотим найти '))
     if binary_search(ar,item ):
-        print(f"элемент:{item} находится под индексом: {binary_search(ar, item)}")
+        print(f"Элемент:{item} находится под индексом: {binary_search(ar, item)}")
     else:
-        print(f"Элемента {item} не существует в массиве")
+        print(f"Элемент {item} не существует в массиве")
 
 
 func()
